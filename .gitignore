@@ -1,1 +1,7 @@
-CODING-PATTERNS/Practice Programs/
+# Ignore specific folders
+CODING-PATTERNS/Practice Programs/*
+
+# Ignore specific file types
+*.tmp
+*.bak
+*.log
