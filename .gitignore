@@ -1,7 +1,9 @@
 # Ignore specific folders
-CODING-PATTERNS/Practice Programs/*
+# CODING-PATTERNS/Practice Programs/*
+.vscode/*
 
 # Ignore specific file types
 *.tmp
 *.bak
 *.log
+*.exe
