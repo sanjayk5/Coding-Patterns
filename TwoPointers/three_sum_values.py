@@ -22,6 +22,12 @@ def find_threesum_values(nums, target):
 
 def main():
     num_list = [4, 6, 2, -5, 10, 9]
+    # [-1, 0, 1, 2, -1, -4],
+    # [1, 2, 3, 4, 5],
+    # [0, 0, 0, 0],
+    # [-4, -1, -1, 0, 1, 2, 2],
+    # [-10, -7, -3, -1, 0, 3, 7, 10],
+    # [-3, -5, -7, -9]
     target_sum = 25
 
     if find_threesum_values(num_list, target_sum):
